@@ -11,6 +11,6 @@ Route::get('/dashboard', function () {
 });
 
 // Route::get('/auth-login', function () {
-//     return view('pages.auth.auth-login');
+///    return view('pages.auth.auth-login');
 // });
 
